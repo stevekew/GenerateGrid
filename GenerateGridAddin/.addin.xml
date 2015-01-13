@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Addin id="GenerateGrid" version="1.0" category="General">
+    <Header>
+        <Name>Generate Grid</Name>
+        <Description>A simple add-in that will allow you to easily generate a grid or checkerboard pattern. Based on BoltBait's Grid Maker v3.0 plugin for Paint.net.</Description>
+        <Author>Steve Kew</Author>
+        <Url>http://aquaria.za.net</Url>
+        <Name locale="en">Generate Grid</Name>
+        <Description locale="en">A simple add-in that will allow you to easily generate a grid or checkerboard pattern Based on BoltBait's Grid Maker v3.0 plugin for Paint.net.</Description>
+    </Header>
+    <Dependencies>
+        <Addin id="Pinta" version="1.5" />
+    </Dependencies>
+	<Localizer type="StringTable">
+		<Locale id="en">
+			<Msg id="Generate Grid Title" str = "Generate Grid" />
+		</Locale>
+	</Localizer>
+</Addin>
