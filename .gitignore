@@ -1,2 +1,5 @@
 
 *.userprefs
+bin/
+obj/
+Output/
