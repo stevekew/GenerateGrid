@@ -8,7 +8,7 @@ See http://forums.getpaint.net/index.php?/topic/1964-grid-maker-plugin-v30-updat
 
 ##Notes
 
-- It has lib copies of the current Pinta.Core and Pinta.Tools to build against, and they currently need manual updating. (Need to look into automatic updates here.)
+- It has lib copies of the current Pinta.Core and Pinta.Effects and Pinta.Gui.Widgets to build against, and they currently need manual updating. (Need to look into automatic updates here.)
 
 - It builds a single dll that needs to be copied to Pinta's bin folder 
 (when developing) or Pinta's install folder (installed Pinta).
